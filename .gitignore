@@ -1,0 +1,33 @@
+# Finance App
+# Ignore files
+
+# Ignore environment variables
+.env
+
+# Ignore node modules
+node_modules
+
+# Ignore virtual environment
+venv
+.venv
+__pycache__
+# Ignore build files
+build
+# Ignore IDE files
+.idea
+.vscode
+# Ignore lock files
+yarn.lock
+package-lock.json
+# Ignore temporary files
+*.tmp
+*.log
+# Ignore temporary files
+*.tmp
+*.log
+# Ignore temporary files
+*.tmp
+*.log
+# package.json
+package.json
+package-lock.json
