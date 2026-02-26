@@ -3,7 +3,7 @@
 
 # Ignore environment variables
 .env
-
+.expo
 # Ignore node modules
 node_modules
 
@@ -31,3 +31,6 @@ package-lock.json
 # package.json
 package.json
 package-lock.json
+settings.json
+z10_group.db
+Finance.db
